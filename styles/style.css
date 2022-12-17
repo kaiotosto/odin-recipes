@@ -1,0 +1,38 @@
+body{
+    background: #ffffff;
+}
+
+h1{
+    background: #ff9494;
+    color: #ffffff;
+    font-family: monospace;
+    font-size: 64px;
+    text-align: center;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    display: block;
+    height: auto;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    width: 300px;
+    margin: 0 auto;
+    padding: 5px 0 0 0;
+    list-style: none;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+a{
+    color: #ff9494 ;
+}
